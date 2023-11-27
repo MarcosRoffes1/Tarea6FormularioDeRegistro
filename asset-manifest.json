@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tarea6FormularioDeRegistro/static/css/main.edfbc399.css",
+    "main.js": "/Tarea6FormularioDeRegistro/static/js/main.0f74d820.js",
+    "static/js/787.1937f22b.chunk.js": "/Tarea6FormularioDeRegistro/static/js/787.1937f22b.chunk.js",
+    "static/media/fondo.jpg": "/Tarea6FormularioDeRegistro/static/media/fondo.a40924db34f331714e6e.jpg",
+    "index.html": "/Tarea6FormularioDeRegistro/index.html",
+    "main.edfbc399.css.map": "/Tarea6FormularioDeRegistro/static/css/main.edfbc399.css.map",
+    "main.0f74d820.js.map": "/Tarea6FormularioDeRegistro/static/js/main.0f74d820.js.map",
+    "787.1937f22b.chunk.js.map": "/Tarea6FormularioDeRegistro/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfbc399.css",
+    "static/js/main.0f74d820.js"
+  ]
+}
